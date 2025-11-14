@@ -7,6 +7,8 @@ This repository contains the data and code for the manuscript:
 # Overview
 This repository provides:
 
+Data relevant to Figures 1 - 8 in the paper.
+
 Scripts to generate the figures (quantum resource estimates) presented in the paper.
  
  
